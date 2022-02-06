@@ -1,1 +1,2 @@
 print("06.02 programm");
+print("wedding")
